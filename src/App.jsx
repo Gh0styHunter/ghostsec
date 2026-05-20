@@ -2,23 +2,23 @@ export default function CyberLandingPage() {
   const services = [
     {
       title: 'Pentest Web',
-      desc: 'Testes de invasão, análise de segurança em aplicações web e identificação de vulnerabilidades críticas.',
+      desc: 'Testes de invasão em aplicações web para identificar vulnerabilidades, falhas críticas e riscos de segurança antes que sejam explorados.',
     },
     {
       title: 'Análise de Vulnerabilidades',
-      desc: 'Scanner de vulnerabilidades, análise preventiva, hardening e correções de segurança.',
+      desc: 'Varredura de vulnerabilidades, análise preventiva, hardening e recomendações de correção para fortalecer a segurança dos sistemas.',
     },
     {
       title: 'Consultoria em Segurança',
-      desc: 'Consultoria em segurança, proteção de redes e melhorias na infraestrutura digital.',
+      desc: 'Consultoria em segurança ofensiva, proteção de redes, análise de riscos e melhorias na infraestrutura digital.',
     },
     {
       title: 'Automações',
-      desc: 'Automação de tarefas, bots, integração entre sistemas, workflows e otimização de processos.',
+      desc: 'Automação de tarefas, bots, integrações entre sistemas, workflows inteligentes e otimização de processos para aumentar produtividade.',
     },
     {
       title: 'Landing Pages',
-      desc: 'Landing pages modernas para vendas, captação de leads, divulgação de serviços e portfólios.',
+      desc: 'Criação de landing pages modernas, rápidas e responsivas para captação de leads, divulgação de serviços, vendas, portfólios e fortalecimento da presença digital.',
     },
   ];
 
@@ -100,7 +100,7 @@ export default function CyberLandingPage() {
           <h3 className="text-4xl font-bold mb-4">Serviços</h3>
 
           <p className="text-gray-400">
-            Soluções focadas em segurança ofensiva, automações e presença digital.
+            Soluções em segurança digital, automações e desenvolvimento web para empresas e negócios.
           </p>
         </div>
 
