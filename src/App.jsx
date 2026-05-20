@@ -149,7 +149,7 @@ export default function CyberLandingPage() {
           </p>
 
           <a
-            href="https://wa.me/+5582998382972"
+            href="https://wa.me/+5582998382972?text=Olá,%20vim%20pelo%20site%20e%20quero%20mais%20informações"
             className="inline-flex px-10 py-5 rounded-2xl bg-green-400 text-black font-bold hover:scale-105 transition duration-300"
           >
             Falar no WhatsApp
